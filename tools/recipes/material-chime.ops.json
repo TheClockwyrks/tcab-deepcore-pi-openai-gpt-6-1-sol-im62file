@@ -1,0 +1,52 @@
+[
+  {
+    "op": "add_sample",
+    "name": "zap_electric",
+    "t_ms": 0.0,
+    "gain": -11.0,
+    "pitch": 0.0,
+    "trim_in_ms": 0.0,
+    "trim_out_ms": 500.0,
+    "fade_in_ms": 0.0,
+    "fade_out_ms": 60.0,
+    "reverse": false
+  },
+  {
+    "op": "add_voice",
+    "name": "tone0",
+    "wave": "triangle",
+    "freq": 520.0,
+    "gain": -19.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 180.0
+  },
+  {
+    "op": "set_envelope",
+    "voice": "tone0",
+    "attack_ms": null,
+    "decay_ms": null,
+    "sustain": null,
+    "release_ms": null,
+    "env": "pluck"
+  },
+  {
+    "op": "add_voice",
+    "name": "tone1",
+    "wave": "triangle",
+    "freq": 780.0,
+    "gain": -19.0,
+    "pan": 0.0,
+    "start_ms": 85.0,
+    "dur_ms": 180.0
+  },
+  {
+    "op": "set_envelope",
+    "voice": "tone1",
+    "attack_ms": null,
+    "decay_ms": null,
+    "sustain": null,
+    "release_ms": null,
+    "env": "pluck"
+  }
+]

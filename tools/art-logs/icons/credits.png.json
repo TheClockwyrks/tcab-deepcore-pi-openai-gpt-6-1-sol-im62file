@@ -1,0 +1,28 @@
+[
+  { "op": "fill_circle", "cx": 12, "cy": 12, "r": 10, "color": "#f4d58c" },
+  { "op": "fill_circle", "cx": 12, "cy": 12, "r": 7, "color": "#284354" },
+  {
+    "op": "fill_rect",
+    "x": 9,
+    "y": 5,
+    "width": 3,
+    "height": 14,
+    "color": "#f4d58c"
+  },
+  {
+    "op": "fill_rect",
+    "x": 8,
+    "y": 7,
+    "width": 9,
+    "height": 2,
+    "color": "#f4d58c"
+  },
+  {
+    "op": "fill_rect",
+    "x": 8,
+    "y": 15,
+    "width": 9,
+    "height": 2,
+    "color": "#f4d58c"
+  }
+]

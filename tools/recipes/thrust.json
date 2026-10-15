@@ -1,0 +1,10 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 3000,
+  "seed": 42,
+  "actions": "/work/tools/recipes/thrust.ops.json",
+  "preview": "/work/tools/recipes/thrust.png",
+  "wav": "/work/assets/audio/thrust.wav",
+  "sample_pack": "combat-core"
+}

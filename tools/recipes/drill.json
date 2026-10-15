@@ -1,0 +1,10 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 3000,
+  "seed": 42,
+  "actions": "/work/tools/recipes/drill.ops.json",
+  "preview": "/work/tools/recipes/drill.png",
+  "wav": "/work/assets/audio/drill.wav",
+  "sample_pack": "combat-core"
+}

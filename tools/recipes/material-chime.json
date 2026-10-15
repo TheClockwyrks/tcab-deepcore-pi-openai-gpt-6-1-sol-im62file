@@ -1,0 +1,10 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 3000,
+  "seed": 42,
+  "actions": "/work/tools/recipes/material-chime.ops.json",
+  "preview": "/work/tools/recipes/material-chime.png",
+  "wav": "/work/assets/audio/material-chime.wav",
+  "sample_pack": "combat-core"
+}

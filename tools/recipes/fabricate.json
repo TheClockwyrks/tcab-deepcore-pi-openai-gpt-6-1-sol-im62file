@@ -1,0 +1,10 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 3000,
+  "seed": 42,
+  "actions": "/work/tools/recipes/fabricate.ops.json",
+  "preview": "/work/tools/recipes/fabricate.png",
+  "wav": "/work/assets/audio/fabricate.wav",
+  "sample_pack": "combat-core"
+}

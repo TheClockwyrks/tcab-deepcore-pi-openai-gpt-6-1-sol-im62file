@@ -1,0 +1,26 @@
+[
+  {
+    "op": "fill_rect",
+    "x": 5,
+    "y": 6,
+    "width": 13,
+    "height": 16,
+    "color": "#e9ba73"
+  },
+  {
+    "op": "fill_rect",
+    "x": 8,
+    "y": 2,
+    "width": 7,
+    "height": 4,
+    "color": "#e9ba73"
+  },
+  {
+    "op": "fill_rect",
+    "x": 9,
+    "y": 10,
+    "width": 5,
+    "height": 7,
+    "color": "#243d4f"
+  }
+]

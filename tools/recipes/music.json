@@ -1,0 +1,12 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 32000,
+  "seed": 42,
+  "actions": "/work/tools/recipes/music.ops.json",
+  "preview": "/work/tools/recipes/music.png",
+  "wav": "/work/assets/audio/music.wav",
+  "sample_pack": "combat-core",
+  "mid": "/work/assets/audio/music.mid",
+  "instrument_bank": "gm-lite"
+}

@@ -1,0 +1,44 @@
+[
+  { "op": "fill_circle", "cx": 40, "cy": 42, "r": 37, "color": "#304a59" },
+  { "op": "fill_circle", "cx": 40, "cy": 48, "r": 28, "color": "#0d1b29" },
+  {
+    "op": "fill_rect",
+    "x": 12,
+    "y": 48,
+    "width": 56,
+    "height": 32,
+    "color": "#0d1b29"
+  },
+  {
+    "op": "fill_rect",
+    "x": 7,
+    "y": 33,
+    "width": 8,
+    "height": 47,
+    "color": "#ae8d58"
+  },
+  {
+    "op": "fill_rect",
+    "x": 7,
+    "y": 35,
+    "width": 4,
+    "height": 10,
+    "color": "#e7c573"
+  },
+  {
+    "op": "fill_rect",
+    "x": 65,
+    "y": 33,
+    "width": 8,
+    "height": 47,
+    "color": "#ae8d58"
+  },
+  {
+    "op": "fill_rect",
+    "x": 65,
+    "y": 35,
+    "width": 4,
+    "height": 10,
+    "color": "#e7c573"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 3000,
+  "seed": 42,
+  "actions": "/work/tools/recipes/lava-sizzle.ops.json",
+  "preview": "/work/tools/recipes/lava-sizzle.png",
+  "wav": "/work/assets/audio/lava-sizzle.wav",
+  "sample_pack": "combat-core"
+}
